@@ -1,0 +1,15 @@
+/home/tavares/testing/projeto_final/bin/Debug/net6.0/projeto_final
+/home/tavares/testing/projeto_final/bin/Debug/net6.0/projeto_final.deps.json
+/home/tavares/testing/projeto_final/bin/Debug/net6.0/projeto_final.runtimeconfig.json
+/home/tavares/testing/projeto_final/bin/Debug/net6.0/projeto_final.dll
+/home/tavares/testing/projeto_final/bin/Debug/net6.0/ref/projeto_final.dll
+/home/tavares/testing/projeto_final/bin/Debug/net6.0/projeto_final.pdb
+/home/tavares/testing/projeto_final/obj/Debug/net6.0/projeto_final.csproj.AssemblyReference.cache
+/home/tavares/testing/projeto_final/obj/Debug/net6.0/projeto_final.GeneratedMSBuildEditorConfig.editorconfig
+/home/tavares/testing/projeto_final/obj/Debug/net6.0/projeto_final.AssemblyInfoInputs.cache
+/home/tavares/testing/projeto_final/obj/Debug/net6.0/projeto_final.AssemblyInfo.cs
+/home/tavares/testing/projeto_final/obj/Debug/net6.0/projeto_final.csproj.CoreCompileInputs.cache
+/home/tavares/testing/projeto_final/obj/Debug/net6.0/projeto_final.dll
+/home/tavares/testing/projeto_final/obj/Debug/net6.0/ref/projeto_final.dll
+/home/tavares/testing/projeto_final/obj/Debug/net6.0/projeto_final.pdb
+/home/tavares/testing/projeto_final/obj/Debug/net6.0/projeto_final.genruntimeconfig.cache
